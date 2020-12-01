@@ -7,7 +7,7 @@
   "description": "Node.JS bindings to .NET's ReportViewer (Windows Only), substituted edge-js for edge ",
   "bundleDependencies": false,
   "dependencies": {
-    "edge-js": "^0.9.3",
+    "edge-js": "^14.3.2",
     "lodash.defaults": "^2.4.1"
   },
   "main": "index.js",
